@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+f:\projects\visual studio\lab2\conradj5\freecelldll\freecelldll\resource1.h(5): warning C4005: 'FREEMENU2': macro redefinition
+  f:\projects\visual studio\lab2\conradj5\freecelldll\freecelldll\resource.h(2): note: see previous definition of 'FREEMENU2'
+dllmain.cpp(11): warning C4229: anachronism used: modifiers on data are ignored
+  FreeCellDLL.cpp
+  Generating code
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FreeCellDLL.vcxproj -> F:\Projects\Visual Studio\Lab2\conradj5\FreeCellDLL\Release\FreeCellDLL.dll
+  FreeCellDLL.vcxproj -> F:\Projects\Visual Studio\Lab2\conradj5\FreeCellDLL\Release\FreeCellDLL.pdb (Full PDB)
